@@ -23,6 +23,7 @@
 * [Amazon Kinesis Video Streams resources](https://aws.amazon.com/kinesis/video-streams/resources/?nc=sn&loc=4&amazon-kinesis-video-streams-resources-blog.sort-by=item.additionalFields.createdDate&amazon-kinesis-video-streams-resources-blog.sort-order=desc)
 * [Amazon Kinesis Video Streams](https://aws.amazon.com/kinesis/video-streams/?amazon-kinesis-video-streams-resources-blog.sort-by=item.additionalFields.createdDate&amazon-kinesis-video-streams-resources-blog.sort-order=desc)
 * [AWS IoT and Amazon Kinesis Video Streams for Connected Home Applications - AWS Online Tech Talks](https://www.youtube.com/watch?v=uKPiOkaF-Sw)
+* [Amazon Kinesis Video Streams Explained](https://www.youtube.com/watch?v=ZjKzGl0O6j8)
 
 ## Key Features
 * C++ SDK
