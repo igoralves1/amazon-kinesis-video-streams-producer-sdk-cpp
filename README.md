@@ -19,6 +19,11 @@
   <a href="#license">License</a>
 </p>
 
+## Igor
+* [Amazon Kinesis Video Streams resources](https://aws.amazon.com/kinesis/video-streams/resources/?nc=sn&loc=4&amazon-kinesis-video-streams-resources-blog.sort-by=item.additionalFields.createdDate&amazon-kinesis-video-streams-resources-blog.sort-order=desc)
+* [Amazon Kinesis Video Streams](https://aws.amazon.com/kinesis/video-streams/?amazon-kinesis-video-streams-resources-blog.sort-by=item.additionalFields.createdDate&amazon-kinesis-video-streams-resources-blog.sort-order=desc)
+* [AWS IoT and Amazon Kinesis Video Streams for Connected Home Applications - AWS Online Tech Talks](https://www.youtube.com/watch?v=uKPiOkaF-Sw)
+
 ## Key Features
 * C++ SDK
 * GStreamer Plugin (kvssink)
